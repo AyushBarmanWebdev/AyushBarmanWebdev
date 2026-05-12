@@ -50,14 +50,14 @@ A full stack LinkedIn-inspired social platform where users can create accounts, 
 
 Features:
 
---> JWT Authentication
---> Protected Routes
---> Responsive UI
---> Profile System
---> Comment System
---> Notifications
---> Cloudinary Image Upload
---> MERN Stack Architecture
+- JWT Authentication
+- Protected Routes
+- Responsive UI
+- Profile System
+- Comment System
+- Notifications
+- Cloudinary Image Upload
+- MERN Stack Architecture
 
 🔗 Live Demo
 https://linked-in-ui.vercel.app
@@ -72,18 +72,18 @@ It’s designed as an early-access prototype to explore handwriting recognition 
 
 🔑 Features:
 
---> Handwriting Mode – draw code on a canvas, auto-converted to text using OCR (Tesseract.js).
---> Typing Mode – normal text editor for writing code directly.
---> Multi-language Support – run code in Python, Java, C, C++, JavaScript, and more (via Judge0 API).
---> Dark/Light Mode toggle.
---> Save, Share & Copy code or output.
+- Handwriting Mode – draw code on a canvas, auto-converted to text using OCR (Tesseract.js).
+- Typing Mode – normal text editor for writing code directly.
+- Multi-language Support – run code in Python, Java, C, C++, JavaScript, and more (via Judge0 API).
+- Dark/Light Mode toggle.
+- Save, Share & Copy code or output.
 
 🛠️ Tech Stack:
 
---> Frontend: HTML, CSS (Tailwind), JavaScript
---> Backend: Node.js (Express)
---> Compiler Engine: Judge0 API
---> OCR Engine: Tesseract.js
+- Frontend: HTML, CSS (Tailwind), JavaScript
+- Backend: Node.js (Express)
+- Compiler Engine: Judge0 API
+- OCR Engine: Tesseract.js
 
 
 🔗 Live Demo
